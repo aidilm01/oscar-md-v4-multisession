@@ -90,7 +90,7 @@ $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
-$ git clone https://github.com/Alpiii22/oscar-md-v4-multisession
+$ git clone https://github.com/aidilm01/oscar-md-v4-multisession
 $ cd oscar-v4
 $ npm i 
 ```
