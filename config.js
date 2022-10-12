@@ -38,20 +38,20 @@ global.syt = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ'
 global.snh = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ' // my youtube channel
 
 /*============== PAYMENT ==============*/
-global.pdana = '6285850539404' //dana
-global.povo = '-' //ovo
-global.pgopay = '-' //gopay
+global.pdana = '6281380448281' //dana
+global.povo = '6281380448281' //ovo
+global.pgopay = '6281380448281' //gopay
 global.plinkaja = '-' //link aja
-global.ppulsa = '085850539404' //indosat
-global.pgdc = 'https://chat.whatsapp.com/GPMdyM0uDMP789G3IGMHda' //group WhatsApp 
-global.ppulsa2 = '085850539404' // kalau ada kartu lain isi aja
-global.psaweria = 'https://saweria.com/Jarotoffc'
+global.ppulsa = '0813-8044-8281' //indosat
+global.pgdc = 'https://chat.whatsapp.com/IlskySeebRgJKKXnRGftd0' //group WhatsApp 
+global.ppulsa2 = '0858-6325-1704' // kalau ada kartu lain isi aja
+global.psaweria = 'gada'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62857-23517757'
-global.nomorown = '15196086971'
-global.namebot = '𝘖𝘴𝘤𝘢𝘳-𝘔𝘥'
-global.nameown = '𝘑𝘢𝘳𝘰𝘵 𝘖𝘧𝘧𝘤'
+global.nomorbot = '6285863251704'
+global.nomorown = '6281380448281'
+global.namebot = 'DILZPX-BOT'
+global.nameown = '4K DILZPX'
 
 /*============== APIKEY SIMPEL ==============*/
 global.zenzkey = 'b8040941f7'
@@ -60,10 +60,10 @@ global.lolkey = '8e66d0934cf741bfd2182c16' // PUNYA Jarot 357d3c85079c4e0818731e
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['15196086971', '𝘑𝘢𝘳𝘰𝘵 𝘖𝘧𝘧𝘤', true],
-  ['15196086971', '𝘑𝘢𝘳𝘰𝘵 𝘖𝘧𝘧𝘤', true],
-  ['6285850539404', '𝘑𝘢𝘳𝘰𝘵 𝘖𝘧𝘧𝘤', true],
-  ['15196086971', '𝘑𝘢𝘳𝘰𝘵 𝘖𝘧𝘧𝘤', true] //Ganti jd nomormu sama Namamu
+  ['15196086971', '4K DILZPX', true],
+  ['15196086971', '4K DILZPX', true],
+  ['6281380448281', '4K DILZPX', true],
+  ['15196086971', '4K DILZPX', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -111,12 +111,12 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 𝘖𝘚𝘊𝘈𝘙-𝘔𝘋 」' //Main Watermark
+global.wm = '                「 DILZPX-BOT 」' //Main Watermark
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘𝘉𝘰𝘵 𝘔𝘶𝘭𝘵𝘪𝘋𝘦𝘷𝘪𝘤𝘦˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ 𝘖𝘚𝘊𝘈𝘙-𝘔𝘋 '
+global.wm3 = '⫹⫺ DILZPX-BOT '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By 𝘑𝘢𝘳𝘰𝘵`
+global.titlebot = `⫹⫺ WhatsApp Bot | By dilzpx`
 global.author = '                「 𝘉𝘖𝘛 𝘔𝘶𝘭𝘵𝘪𝘋𝘦𝘷𝘪𝘤𝘦  あ」'
 
 
@@ -191,7 +191,7 @@ global.htjava = '❒'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = '𝘑𝘢𝘳𝘰𝘵 𝘖𝘧𝘧𝘤'
+global.stickpack = '4K DILZPX'
 global.stickauth = `𝐖𝐡𝐚𝐬𝐭𝐚𝐩𝐩 𝐛𝐨𝐭𝐳`
 
 global.multiplier = 38 // The higher, The harder levelup
